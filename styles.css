@@ -15,15 +15,15 @@ body {
 .name-heading {
   margin: 0;
   border-right: 2px solid black;
-  width: 250px;
-  padding: 12px;
+  width: 540px;
+  padding: 15px;
 }
 
 .resume-heading {
   margin: 0;
   border-left: 2px solid black;
-  width: 240px;
-  padding: 12px;
+  width: 340px;
+  padding: 15px;
 }
 
 .big-box {
